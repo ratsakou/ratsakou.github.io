@@ -17,7 +17,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   background: #fafafa;
-  color: gray; }
+  color: gray;}
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -366,7 +366,7 @@ header {
   left: -50px; }
   .rotate .heading {
     font-family: "Karla", Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 1em;
     -webkit-transform: rotate(90deg);
@@ -410,7 +410,7 @@ header {
     left: 30px; }
     .about-desc .rotate .heading {
       font-family: "Karla", Arial, sans-serif;
-      font-size: 14px;
+      font-size: 16px;
       text-transform: uppercase;
       letter-spacing: 1em;
       -webkit-transform: rotate(90deg);
@@ -802,7 +802,7 @@ header {
       color: #000;
       text-transform: uppercase;
       letter-spacing: 4px;
-      font-size: 12px;
+      font-size: 18px;
       position: relative; }
       .fancytitle p:after {
         position: absolute;
