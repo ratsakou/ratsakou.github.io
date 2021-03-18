@@ -51,39 +51,73 @@
 
 	</head>
 	<body>
-	<!-- Navigation menu -->
-	<nav id="colorlib-main-nav" role="navigation" style="position: fixed;">
-		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle active"><i></i></a>
-		<div class="js-fullheight colorlib-table">
-			<div class="colorlib-table-cell js-fullheight">
-				<div class="row">
-					<div class="col-md-12">
-						<ul>
-							<li><a href="#home" 	onclick="navigateTo('#home');">		Home</a></li>
-							<li><a href="#about" 	onclick="navigateTo('#about');">	About</a></li>
-							<li><a href="#works" 	onclick="navigateTo('#works');">	Work</a></li>
-							<li><a href="#projects" 	onclick="navigateTo('#projects');">	Projects</a></li>
-							<li><a href="#contact" 	onclick="navigateTo('#contact');">	Contact</a></li>
-						</ul>
+
+		
+		<!-- Navigation menu -->
+		<!--
+		<nav id="colorlib-main-nav" role="navigation" style="position: fixed;">
+			<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle active"><i></i></a>
+			<div class="js-fullheight colorlib-table">
+				<div class="colorlib-table-cell js-fullheight">
+					<div class="row">
+						<div class="col-md-12">
+							<ul>
+								<li><a href="#home" 	onclick="navigateTo('#home');">		<i class="icon-home"></i>Home</a></li>
+								<li><a href="#about" 	onclick="navigateTo('#about');">	About</a></li>
+								<li><a href="#works" 	onclick="navigateTo('#works');">	Work</a></li>
+								<li><a href="#projects" 	onclick="navigateTo('#projects');">	Projects</a></li>
+								<li><a href="#contact" 	onclick="navigateTo('#contact');">	Contact</a></li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</nav>
-	
+		</nav>
+
 	<div id="colorlib-page">
 		<header>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<!-- <div class="colorlib-navbar-brand">
-							<a class="colorlib-logo" href="index.html"><span>No</span><span>ah</span></a>
-						</div> -->
 						<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 					</div>
 				</div>
 			</div>
 		</header>
+-->
+
+
+<!--Below this is the navbar html -->
+
+  <div id="custom-bootstrap-menu" class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+          <div class="navbar-header"><a class="navbar-brand" href="#home">ALMPION RATSAKOU</a>
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder">
+              	<!-- <span class="sr-only">Toggle navigation</span> -->
+              	<span class="icon-menu"></span>
+              </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-menubuilder">
+              <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#home">home</a>
+                  </li>
+                  <li><a href="#about">about</a>
+                  </li>
+                  <li><a href="#projects">projects</a>
+                  </li>
+                  <li><a href="#works">work</a>
+                  </li>
+                  <li><a href="#contact">contact</a>
+                  </li>
+              </ul>
+
+          </div>
+      </div>
+  </div>
+
+
+
+
 		<div id="home">
 			<div class="container">
 				<div class="row text-center">
@@ -215,8 +249,8 @@
 								
 								<br>
 								<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#p4_abstract" aria-expanded="false" aria-controls="p4_abstract">Abstract</button>
-								Article available online at: 
-							    <a href="https://doi.org/10.1016/j.infrared.2020.103527" target="_blank">https://doi.org/10.1016/j.infrared.2020.103527</a> 
+								DOI: 
+							    <a href="https://doi.org/10.1016/j.infrared.2020.103527" target="_blank">10.1016/j.infrared.2020.103527</a> 
 								<div class="collapse" id="p4_abstract">
 								  <div class="card card-body">
 								    <p>The Canny shape-reconstruction algorithm is combined with the thermographic signal reconstruction (TSR) technique for the characterisation of delamination defects in planar multilayer structures. The adopted approach consists in fitting the raw thermographic images to a low-degree polynomial in the log–log representation of the time axis, according to TSR technique, and then apply the Canny algorithm to the reconstruction of the original signals. The proposed juxtaposition of the two treatments benefits from the inherent signal de-noising and compression of the TSR algorithm, thus enhancing the performance of the overall reconstruction process. The proposed approach has been applied using synthetic signals obtained via a 3D semi-analytical simulation code and the obtained reconstructed images have been compared with the (known) delamination geometry demonstrating satisfactory results.
@@ -232,8 +266,8 @@
 								<i> in Journal of Physics: Conference Series, vol. 1476, p. 012005. 2020</i>
 								<br>
 								<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#p3_abstract" aria-expanded="false" aria-controls="p3_abstract">Abstract</button>
-								Article available online at: 
-							    <a href="https://doi.org/10.1088/1742-6596/1476/1/012005" target="_blank">https://doi.org/10.1088/1742-6596/1476/1/012005</a>,
+								DOI: 
+							    <a href="https://doi.org/10.1088/1742-6596/1476/1/012005" target="_blank">10.1088/1742-6596/1476/1/012005</a>,
 							    <a href="https://iopscience.iop.org/article/10.1088/1742-6596/1476/1/012005/pdf" target="_blank" download>Download PDF</a>
 							    <div class="collapse" id="p3_abstract">
 								  <div class="card card-body">
@@ -249,8 +283,8 @@
 								<i> in AIP Conference Proceedings, vol. 2102, p. 120004, AIP Publishing, 2019</i>
 								<br>
 								<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#p2_abstract" aria-expanded="false" aria-controls="p2_abstract">Abstract</button>
-								Article available online at: 
-							    <a href="https://doi.org/10.1063/1.5099846" target="_blank">https://doi.org/10.1063/1.5099846</a>,
+								DOI: 
+							    <a href="https://doi.org/10.1063/1.5099846" target="_blank">10.1063/1.5099846</a>,
 								<a href="https://aip.scitation.org/doi/pdf/10.1063/1.5099846" target="_blank" download>Download PDF</a>
 								<div class="collapse" id="p2_abstract">
 								  <div class="card card-body">
@@ -267,8 +301,8 @@
 								<i> in Electromagnetic Non-destructive Evaluation, volume 43, pages 175-82, IOS Press, 2018</i>
 							    <br>
 							    <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#p1_abstract" aria-expanded="false" aria-controls="p1_abstract">Abstract</button>
-							    Article available online at: 
-							    <a href="https://ebooks.iospress.nl/volumearticle/49028" target="_blank">https://ebooks.iospress.nl/volumearticle/49028</a>
+							    DOI: 
+							    <a href="https://ebooks.iospress.nl/volumearticle/49028" target="_blank">10.3233/978-1-61499-836-5-175</a>
 							    <div class="collapse" id="p1_abstract">
 								  <div class="card card-body">
 								    <p>This communication presents the first development aiming at efficiently simulating configurations of eddy current thermography for nondestructive evaluation. The numerical method proposed here is based on the Finite Integration Technique for both electromagnetic and thermal problems. Simulation results obtained using two different materials, steel and aluminum, are compared and discussed with respect to the presence of a flaw affecting the piece under test. 
@@ -550,7 +584,6 @@
 										&nbsp;Github
 									</a>
 									<br>
-
 								</p>
 							</div>
 						</div>
