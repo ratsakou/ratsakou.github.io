@@ -1,0 +1,50 @@
+<!-- Dysprosium -->
+						<iframe src="https://open.spotify.com/embed/playlist/2ObfC9y1RqAfDSt2f62Lnt" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- 60% Water -->
+						<iframe src="https://open.spotify.com/embed/playlist/2yjscA80DgowG1w29leBpp" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+						
+						<!-- Purple Lotus -->
+						<iframe src="https://open.spotify.com/embed/playlist/52gzem8GX1mXD0trV2PpRJ" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Don't Blow The Candle -->
+						<iframe src="https://open.spotify.com/embed/playlist/3nOvCBpW6QKxqFoTLwCFIN" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Never mind -->
+						<iframe src="https://open.spotify.com/embed/playlist/79nhNx1p8zrsZW3yXmomG6" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Balter my baby, balter -->
+						<iframe src="https://open.spotify.com/embed/playlist/1gN78kCLV3pn5jITFcw7eq" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Ain't No Demon -->
+						<iframe src="https://open.spotify.com/embed/playlist/1e6N35a1p9hgusgOBZgXpb" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Chill Caviar -->
+						<iframe src="https://open.spotify.com/embed/playlist/2ZXyUchsyYQqKtFN7iD8zQ" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Janpu no akachan -->
+						<iframe src="https://open.spotify.com/embed/playlist/25bu7HRSnRcfwn0S2czBEB" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Greek Summer 2017 e02 -->
+						<iframe src="https://open.spotify.com/embed/playlist/1tbNdaL24DCTa0iSxNNKFe" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Greek Summer 2017  e01 -->
+						<iframe src="https://open.spotify.com/embed/playlist/26SscR4evzCde6h4QMLLSo" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Agar -->
+						<iframe src="https://open.spotify.com/embed/playlist/1wInU5coRPNLzdYdvN2rOQ" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- BB Sea -->
+						<iframe src="https://open.spotify.com/embed/playlist/7clw2zpw73KONPWa0ntiR3" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Mondaylust -->
+						<iframe src="https://open.spotify.com/embed/playlist/7biwXYFz5tYEdhrCnw3lCT" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- SL Club -->
+						<iframe src="https://open.spotify.com/embed/playlist/6ng1QgJH3a9WRawPFZYr7b" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- HiD -->
+						<iframe src="https://open.spotify.com/embed/playlist/304gBTDb7nu5azNYteYQX3" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+						<!-- Greek Summer 2018  e01 -->
+						<iframe src="https://open.spotify.com/embed/playlist/4pJr4KdqfN8AaZ69A80zDc" width="300" height="210" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
